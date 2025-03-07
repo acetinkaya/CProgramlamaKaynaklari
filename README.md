@@ -20,4 +20,4 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Ord. Prof. Dr. Cahit ARF,  
+1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebili
