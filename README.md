@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**C Programalama dili
+**C Programalama dili** alanında temel ve 
