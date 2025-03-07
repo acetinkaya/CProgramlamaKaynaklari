@@ -18,7 +18,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| **C ve C++** | 
+| **C ve C++** | C ve C++ programlama dillerini uygulamalı anlatan bir kaynak ders kitaptır. 
 
 
 ---
