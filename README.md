@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**C 
+**C Programalama dili
