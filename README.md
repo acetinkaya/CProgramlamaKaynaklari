@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**C Programalama dili** alanında temel ve ileri seviye kaynak 
+**C Programalama dili** alanında temel ve ileri seviye kaynak kitapları içermektedir.
