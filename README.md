@@ -28,7 +28,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 2. Prof. Dr. Ercan Nurcan Yılmaz, Dr. Serkan Gönen, "Örneklerle Uygulamalı C ve C++", İstanbul Gelişim Üniversitesi Yayınları, İstanbul, 2023.
 
-3. 
+3. Nergiz 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
