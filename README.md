@@ -25,7 +25,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 1. Harvey M. Deithel, Paul J. Deitel,  "C ve C++", Sistem Yayıncılık, İstanbul, 2011.
 
-2. Prof. Dr. Ercan Nurcan Yılmaz, Dr. Serkan Gönen, "Örneklerle Uygulamalı C ve C++", 
+2. Prof. Dr. Ercan Nurcan Yılmaz, Dr. Serkan Gönen, "Örneklerle Uygulamalı C ve C++", İstanbul Gelişim 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
