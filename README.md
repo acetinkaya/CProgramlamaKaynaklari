@@ -19,7 +19,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
 | **C ve C++** | C ve C++ programlama dillerini uygulamalı anlatan bir kaynak ders kitaptır. | 978-975-322-307-2 | Sistem Yayıncılık | [ Link ](https://www.amazon.com.tr/C-ve-Harvey-Deitel/dp/9753223072) | 1 |
-| **Örneklerle Uygulamalı C ve C++** | C ve C++ programlama 
+| **Örneklerle Uygulamalı C ve C++** | C ve C++ programlama dillerini uygulama destekli
 
 
 ---
