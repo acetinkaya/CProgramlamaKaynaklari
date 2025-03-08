@@ -28,7 +28,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 2. Prof. Dr. Ercan Nurcan Yılmaz, Dr. Serkan Gönen, "Örneklerle Uygulamalı C ve C++", İstanbul Gelişim Üniversitesi Yayınları, İstanbul, 2023.
 
-3. Nergiz Ercil Çağıltay, Gül Tokdemir, C. FÜgen Selbes, Çiğdem Turhan, "C Dersi Programlamaya Giriş", Kişisel Yayınlar, Ankara, 2010.
+3. Nergiz Ercil Çağıltay, Gül Tokdemir, C. Fügen Selbes, Çiğdem Turhan, "C Dersi Programlamaya Giriş", Kişisel Yayınlar, Ankara, 2010.
 
 4. 
 
