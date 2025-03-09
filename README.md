@@ -34,7 +34,11 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 3. Nergiz Ercil Çağıltay, Gül Tokdemir, C. Fügen Selbes, Çiğdem Turhan, "C Dersi Programlamaya Giriş", Kişisel Yayınlar, Ankara, 2010.
 
-4. 
+4. a
+
+5. a
+
+6. Prof. Dr. Fatih Başçiftçi, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
