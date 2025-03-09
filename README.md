@@ -38,7 +38,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 5. a
 
-6. Prof. Dr. Fatih Başçiftçi, 
+6. Prof. Dr. Fatih Başçiftçi, "C Programlama Dİli", 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
