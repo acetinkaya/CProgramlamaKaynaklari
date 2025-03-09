@@ -36,7 +36,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 4. a
 
-5. Dr. Erdal Güvenoğlu, "Çözümlü C Örnekleri", Nobel Akademik Yayıncılık, 
+5. Dr. Erdal Güvenoğlu, "Çözümlü C Örnekleri", Nobel Akademik Yayıncılık, Ankara, 2022.
 
 6. Prof. Dr. Fatih Başçiftçi, "C Programlama Dİli", Atlas Akademi, Konya, 2010.
 
