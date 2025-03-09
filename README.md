@@ -21,7 +21,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **C ve C++** | C ve C++ programlama dillerini uygulamalı anlatan bir kaynak ders kitaptır. | 978-975-322-307-2 | Sistem Yayıncılık | [ Link ](https://www.amazon.com.tr/C-ve-Harvey-Deitel/dp/9753223072) | 1 |
 | **Örneklerle Uygulamalı C ve C++** | C ve C++ programlama dillerini uygulama destekli kaynak ders kitaptır. | 978-6054827992 | İstanbul Gelişim Üniversitesi Yayınları | [ Link ](https://www.amazon.com.tr/%C3%96rneklerle-Uygulamal%C4%B1-C-ve/dp/6054827995) | 2 |
 | **C Dersi Programlamaya Giriş** | C programlama dili uygulama destekli kaynak ders kitabıtır. | 978-9944-62-337-7 | Kişisel Yayınlar | [ Link ](https://www.amazon.com.tr/Programlamaya-Tokdemir-Selbes-Turhan-%C3%87a%C4%9F%C4%B1ltay/dp/9944623377) | 3 |
-| **C Dersi Çözümlü Problem Kitabı** | C programlama dili çözümlü  | 978-9944-62-337-7 | Kişisel Yayınlar | [ Link ](https://www.amazon.com.tr/Programlamaya-Tokdemir-Selbes-Turhan-%C3%87a%C4%9F%C4%B1ltay/dp/9944623377) | 3 |
+| **C Dersi Çözümlü Problem Kitabı** | C programlama dili çözümlü örnekler kitabıtır. | 978-9944-62-337-7 | Kişisel Yayınlar | [ Link ](https://www.amazon.com.tr/Programlamaya-Tokdemir-Selbes-Turhan-%C3%87a%C4%9F%C4%B1ltay/dp/9944623377) | 3 |
 
 
 ---
