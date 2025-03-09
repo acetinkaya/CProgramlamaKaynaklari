@@ -34,7 +34,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 3. Nergiz Ercil Çağıltay, Gül Tokdemir, C. Fügen Selbes, Çiğdem Turhan, "C Dersi Programlamaya Giriş", Kişisel Yayınlar, Ankara, 2010.
 
-4. a
+4. Nergiz Ercil Çağıltay, 
 
 5. Dr. Erdal Güvenoğlu, "Çözümlü C Örnekleri", Nobel Akademik Yayıncılık, Ankara, 2022.
 
